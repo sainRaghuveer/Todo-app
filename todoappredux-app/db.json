@@ -1,0 +1,69 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "status": false
+    },
+    {
+      "title": "learn react",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "Learn Python",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "learn JAVA",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "Learn React Redux",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "Learn new things",
+      "status": false,
+      "id": 6
+    },
+    {
+      "title": "learn cricket",
+      "status": false,
+      "id": 7
+    },
+    {
+      "title": "Learn python again",
+      "status": false,
+      "id": 8
+    },
+    {
+      "title": "mknjdc",
+      "status": false,
+      "id": 9
+    },
+    {
+      "title": "bhbhbh",
+      "status": false,
+      "id": 10
+    },
+    {
+      "title": "ncjniWEF",
+      "status": false,
+      "id": 11
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
